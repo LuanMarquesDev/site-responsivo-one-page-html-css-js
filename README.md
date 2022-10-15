@@ -1,12 +1,10 @@
-# Projeto Faculdade - Site One Page
 # Projeto Faculdade - Site Your Version
 
 ## Sobre
 Criação de um site utilizando as Linguagens HTML, CSS e JS
-O site tem como objetivo divulgar uma empresa fictícia "Your Version", em fomarto de one page, divulgando
 O site tem como objetivo divulgar uma empresa fictícia "Your Version", em fomarto de one page, sendo uma apresentação da empresa e cards divulgando seus serviços, especilidades, planos e colaboradores.
 
-Site respondive, tanto para DESKTOP quanto para MOBILE
+Site respondive, tanto para DESKTOP quanto para MOBILE.
 
 ## Linguagens Utilizadas
 * HTML
@@ -15,4 +13,13 @@ Site respondive, tanto para DESKTOP quanto para MOBILE
 * Bootstrap
 * Jquery
 
+[Clique aqui](https://luanmarquesdev.github.io/site-responsivo-your-version/) para acessar o Site!!
+
 ## Videos do Projeto
+
+#### DESKTOP
+https://user-images.githubusercontent.com/81979197/195969578-383714a3-859e-4adf-93dc-3cc0d3409a68.mp4
+
+
+#### MOBILE
+https://user-images.githubusercontent.com/81979197/195969567-c5a020c2-d708-435d-8086-bda4d3eeda0e.mp4
