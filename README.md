@@ -4,18 +4,18 @@
 Criação de um site utilizando as Linguagens HTML, CSS e JS
 O site tem como objetivo divulgar uma empresa fictícia "Your Version", em fomarto de one page, sendo uma apresentação da empresa e cards divulgando seus serviços, especilidades, planos e colaboradores.
 
-Site respondive, tanto para DESKTOP quanto para MOBILE.
+Site responsivo, tanto para DESKTOP quanto para MOBILE.
 
 ## Linguagens Utilizadas
 * HTML
 * CSS
-* JS
-* Bootstrap
-* Jquery
+* JAVASCRIPT
+* BOOTSTRAP
+* JQUERY
 
 [Clique aqui](https://luanmarquesdev.github.io/site-responsivo-your-version/) para acessar o Site!!
 
-## Videos do Projeto
+## Vídeos do Projeto
 
 #### DESKTOP
 https://user-images.githubusercontent.com/81979197/195969578-383714a3-859e-4adf-93dc-3cc0d3409a68.mp4
